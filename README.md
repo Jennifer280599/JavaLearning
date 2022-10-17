@@ -1,2 +1,3 @@
 # JavaLearning
-test
+Mein erster Commit 
+Jayjay
